@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /private/
+Disallow: /backup-2022/
+
+# CYSTACK{robots_txt_found}
